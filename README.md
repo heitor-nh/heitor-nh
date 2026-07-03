@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👨‍💻 GitHub Status
 
-<!--
-**heitor-nh/heitor-nh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heitor-nh&theme=dracula) 
+| :-: |
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heitor-nh&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heitor-nh&theme=dracula)
+| :-: | :-: |
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Contact Channels
+<div>
+  <a href="https://www.linkedin.com/in/o-heitor-almeida/">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto: heitor.almeida@neuronhire.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
