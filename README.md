@@ -1,10 +1,7 @@
 ## 👨‍💻 GitHub Status
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heitor-nh&theme=dracula) 
+| ![](./profile-3d-contrib/profile-night-rainbow.svg)
 | :-: |
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heitor-nh&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heitor-nh&theme=dracula)
-| :-: | :-: |
 
 <hr>
 
