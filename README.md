@@ -1,10 +1,3 @@
-## 👨‍💻 GitHub Status
-
-| ![](./profile-3d-contrib/profile-night-rainbow.svg)
-| :-: |
-
-<hr>
-
 ### 🌐 Contact Channels
 <div>
   <a href="https://www.linkedin.com/in/o-heitor-almeida/">
